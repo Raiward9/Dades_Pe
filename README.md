@@ -5,7 +5,7 @@ Les columnes de la capçalera de la taula de dades signifiquen, cal importar al 
 "type": categoria de la imatge
 
 "is": tamany inicial de la imatge en bytes
-
+<br></br>
 
 "xs": tamany de la imatge en format x
 

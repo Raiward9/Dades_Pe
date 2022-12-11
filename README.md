@@ -17,4 +17,4 @@ Les columnes de la capçalera de la taula de dades signifiquen, cal importar al 
 
 "xr": màxim consum de memòria temporal en KBytes en format x
 
-On x pot ser Png, Jpeg-ls o WebP.
+On x pot ser p, j, w (Png, Jpeg-ls o WebP respectivament).

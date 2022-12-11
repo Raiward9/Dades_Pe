@@ -1,6 +1,9 @@
 Les columnes de la capçalera de la taula de dades signifiquen, cal importar al R per tractar les dades:
+
 "id": id de la imatge dins la seva categoria
+
 "type": categoria de la imatge
+
 "is": tamany inicial de la imatge en bytes
 
 "xs": tamany de la imatge en format x

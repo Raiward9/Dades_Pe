@@ -1,5 +1,6 @@
 Cal importar al R per tractar les dades.
 <br></br>
+
 Les columnes de la capçalera de la taula de dades signifiquen:
 
 "id": id de la imatge dins la seva categoria

@@ -6,6 +6,7 @@ Les columnes de la capçalera de la taula de dades signifiquen, cal importar al 
 
 "is": tamany inicial de la imatge en bytes
 
+
 "xs": tamany de la imatge en format x
 
 "xut": user time al comprimir la imatge a x

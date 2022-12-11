@@ -1,4 +1,6 @@
-Les columnes de la capçalera de la taula de dades signifiquen, cal importar al R per tractar les dades:
+Cal importar al R per tractar les dades.
+ 
+Les columnes de la capçalera de la taula de dades signifiquen:
 
 "id": id de la imatge dins la seva categoria
 
